@@ -1,2 +1,4 @@
 # FeedReaderTesting
-My last project for Udacity
+
+## How to run
+Click on index.html and run it in browser.
